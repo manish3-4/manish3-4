@@ -1,6 +1,6 @@
 # Hi! I'm Manish Kumar 👋
 
-🔭 **Currently working on:** Full-stack ToDo app with Spring Boot, PostgreSQL & AWS deployment
+🔭 **Currently working on:** Spring Boot, PostgreSQL & AWS deployment
 
 👨‍💻 **Profile**
 
